@@ -1,5 +1,17 @@
-body {
-   /* background-image: url(http://www.informabtl.com/wp-content/uploads/2015/04/hellofood.png); */
-    background-size: 100% 100%;
-  background-attachment: scroll;
+ body {
+  background-color: #F2D7D5;
+  background-size: 100% 100%;
+  background-attachment: fixed;
 }
+
+img{
+display:block;
+margin: auto;
+
+}
+
+h1 {
+   text-align: center;
+   font-family: 'Neucha', cursive;
+   font-size: 4rem;
+ }
