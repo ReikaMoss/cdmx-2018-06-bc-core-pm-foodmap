@@ -1,0 +1,19 @@
+body {
+  background-image: url(images/fondo.jpg);
+  background-size: cover;
+}
+
+.logo img{
+ margin: 1em 4em 3em 2em;
+ width: 18rem;
+ height: 18rem;
+}
+
+.estilo img{
+  text-align: center;
+  margin: 150px;
+
+  font-size: 25px;
+  margin-top: 15px;
+
+  }
